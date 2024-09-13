@@ -1,0 +1,15 @@
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\bin\Debug\net6.0\oop-console.exe
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\bin\Debug\net6.0\oop-console.deps.json
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\bin\Debug\net6.0\oop-console.runtimeconfig.json
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\bin\Debug\net6.0\oop-console.dll
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\bin\Debug\net6.0\oop-console.pdb
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.AssemblyInfoInputs.cache
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.AssemblyInfo.cs
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.csproj.CoreCompileInputs.cache
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.sourcelink.json
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.dll
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\refint\oop-console.dll
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.pdb
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\oop-console.genruntimeconfig.cache
+C:\Users\dumar\OneDrive\Documentos\dev-projects\oop-training\oop-console\obj\Debug\net6.0\ref\oop-console.dll
